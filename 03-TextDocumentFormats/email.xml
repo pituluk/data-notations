@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>test@example.com</sender>
+    <recipient>rtest@example.com</recipient>
+    <subject>Test</subject>
+    <body>Message</body>
+</email>

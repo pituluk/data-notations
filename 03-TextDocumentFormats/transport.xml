@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport>
+    <name>Bus</name>
+    <price currency="PLN">2</price>
+    <speed unit="km/h">50</speed>
+    <owner>MPK</owner>
+    </transport>
+    <transport>
+    <name>Tram</name>
+    <price currency="PLN">2</price>
+    <speed unit="km/h">50</speed>
+    <owner>MPK</owner>
+    </transport>
+    <transport>
+    <name>Train</name>
+    <price currency="PLN">10</price>
+    <speed unit="km/h">140</speed>
+    <owner>Polregio</owner>
+    </transport>
+    <transport>
+    <name>Feet</name>
+    <price currency="PLN">0</price>
+    <speed unit="km/h">6</speed>
+    <owner>Me</owner>
+    </transport>
+</transports>
