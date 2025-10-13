@@ -1,0 +1,61 @@
+{
+    "ticket_id": "IC-20251020-KGW-KTW-4120-7F3A",
+    "passenger": {
+      "first_name": "Jan",
+      "last_name": "Kowalski",
+      "document": {
+        "type": "ID",
+        "number": "AB1234567"
+      }
+    },
+    "route": {
+      "origin": {
+        "name": "Kraków Główny",
+        "station_code": "KRK"
+      },
+      "destination": {
+        "name": "Katowice",
+        "station_code": "KTW"
+      },
+      "stops": [
+        "Tarnów",
+        "Dąbrowa Górnicza"
+      ]
+    },
+    "train": {
+      "operator": "PKP Intercity",
+      "service_type": "INTERCITY",
+      "train_number": "IC 4120"
+    },
+    "departure": {
+      "datetime": "2025-10-14T09:15:00+02:00",
+      "platform": "3"
+    },
+    "arrival": {
+      "datetime": "2025-10-14T10:40:00+02:00",
+      "platform": null
+    },
+    "duration_minutes": 85,
+    "coach": "B",
+    "seat": "12A",
+    "class": "2",
+    "price": {
+      "amount": 39.90,
+      "currency": "PLN",
+      "paid": true
+    },
+    "purchase": {
+      "method": "online",
+      "vendor": "intercity.pl",
+      "purchase_datetime": "2025-10-13T18:22:10+02:00"
+    },
+    "refundable": false,
+    "barcode": "||:|:|::||:|::|:|:|::||:123456789012",
+    "notes": [
+      "Baggage allowed",
+      "Seat reservation included"
+    ],
+    "restrictions": [],
+    "created_at": "2025-10-13T18:22:10+02:00",
+    "source": "portalpasazerapl"
+  }

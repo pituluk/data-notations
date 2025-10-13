@@ -53,5 +53,25 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Bosideng",
+        "founded": 1975,
+        "headquarters": "Shanghai, China",
+        "employees": 12000,
+        "products": [
+            "High class",
+            "Casual wear",
+            "Kids wear"
+        ]
+    },
+    {
+        "name": "HLA Group",
+        "founded": 1997,
+        "headquarters": "Jiangyin, Jiangsu, China",
+        "employees": 24000,
+        "products": [
+            "Everything"
+        ]
     }
 ]
